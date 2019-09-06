@@ -1,2 +1,2 @@
 # jojogame
-simple platform with godot
+simple platform game with godot
